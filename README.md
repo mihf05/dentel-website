@@ -1,14 +1,5 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/md-irfan-hasan-fahim/dentelo)
-  ![GitHub stars](https://img.shields.io/github/stars/md-irfan-hasan-fahim/dentelo?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/md-irfan-hasan-fahim/dentelo?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/md-irfan-hasan-fahim?style=social)](https://twitter.com/intent/follow?screen_name=md-irfan-hasan-fahim)
-
-  <br />
-  <br />
-
-  <h2 align="center">Dentelo - Dental website</h2>
+<h2 align="center">Dentelo - Dental website</h2>
 
   Dentelo is a fully responsive dental website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
@@ -35,13 +26,13 @@ To run **Dentelo** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/md-irfan-hasan-fahim/dentelo.git
+sudo git clone https://github.com/md-irfan-hasan-fahim/dentel-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/md-irfan-hasan-fahim/dentelo.git
+git clone https://github.com/md-irfan-hasan-fahim/dentel-website.git
 ```
 
 
